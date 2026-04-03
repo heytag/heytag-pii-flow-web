@@ -1,0 +1,6 @@
+homepage: "https://heytag.de"
+documentation: "https://heytag.de/gtm-vorlagen/heytag-pii-flow-web"
+versions:
+  # Latest version
+  - sha: 
+    changeNotes: Initial release.
